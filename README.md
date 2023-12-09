@@ -29,22 +29,23 @@
 
 <p align="center">
   <a href="https://www.facebook.com/iamshakilhossain">
-    <img alt="svgImg" src="/images/facebook.png"/>
+    <img alt="svgImg" src="/images/Fb.png"/>
   </a>
   <a href="https://www.linkedin.com/in/md-shakil-hossain-60564519b">
-    <img alt="svgImg" src="/images/linkedin.png"/>
+    <img alt="svgImg" src="/images/linked.png"/>
   </a>
   <a href="https://twitter.com/creative_shakil">
-    <img alt="svgImg" src="/images/x-twitter.png"/>
+    <img alt="svgImg" src="/images/x-twit.png"/>
 </p>
 
 ## 🛠️ Recent Projects Highlights:
 
 > Project Name: **City Scape**
 
-*Info: CityScape is a Real State Company. This is a multi vendor e-commerce site. where user and Agent can buy or sell their property. Admin can manage the overall system of the CityScape Inc.*
+_Info: CityScape is a Real State Company. This is a multi vendor e-commerce site. where user and Agent can buy or sell their property. Admin can manage the overall system of the CityScape Inc._
 
 ### Features:
+
 - Engage seamlessly with our user-centric features, including reviews, wishlists , and personalized dashboards, enhancing your overall experience and simplifying property management.
 - City Scape prioritizes security with robust authentication, ensuring a safe user experience.
 - Coupled with a responsive design for multi-device accessibility and real-time notifications, City Scape provide a transparent and efficient environment for all your property transactions.
@@ -55,12 +56,12 @@
 
 `Server Repo` : https://github.com/Shakilofficial/city-scape-server
 
-
 > Project Name: **ExcessEats**
 
-*Info: Community Food Sharing and Surplus Reduction Platform. Technology Uses- React, Firebase, JWT, Node.js (Express.js) , MongoDB, Tailwind CSS.*
+_Info: Community Food Sharing and Surplus Reduction Platform. Technology Uses- React, Firebase, JWT, Node.js (Express.js) , MongoDB, Tailwind CSS._
 
 ### Features:
+
 - Find and request food: Easily browse food listings and request food that you need.
 - Share food: Easily post food listings to share your surplus food with others.
 - Send and receive messages to arrange food pick-ups, ask questions, and build relationships.
@@ -73,12 +74,12 @@
 
 `Server Repo` : https://github.com/Shakilofficial/community-food-sharing-server
 
-
 > Project Name: **Brand Shop**
 
-*Info: This is the brand Shop based simple e-commerce or a site which is represent the brand shop.*
+_Info: This is the brand Shop based simple e-commerce or a site which is represent the brand shop._
 
 ### Features:
+
 - Brand-Based Categories: The website specializes in one of seven categories, such as Technology ensuring a focused user experience.
 
 - User Authentication: Users can register and log in with email and password or alternative logins (e.g., Google), providing a personalized experience.
@@ -94,7 +95,3 @@
 `Client Repo` : https://github.com/Shakilofficial/brand-shop-client
 
 `Server Repo` : https://github.com/Shakilofficial/-brand-shop-server
-
-
-
-
