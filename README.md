@@ -31,14 +31,10 @@
   <a href="https://www.facebook.com/iamshakilhossain">
     <img alt="" src="/images/facebook-bar.png"/>
   </a>
-  
-  <div style="margin-right: 20px;"></div>
-  
+
   <a href="https://www.linkedin.com/in/md-shakil-hossain-60564519b">
     <img alt="" src="/images/in-bar.png"/>
   </a>
-
-  <div style="margin-right: 20px;"></div>
   
   <a href="https://twitter.com/creative_shakil">
     <img alt="" src="/images/x-bar.png"/>
