@@ -29,13 +29,20 @@
 
 <p align="center">
   <a href="https://www.facebook.com/iamshakilhossain">
-    <img alt="svgImg" src="/images/Fb.png"/>
+    <img alt="" src="/images/facebook-bar.png"/>
   </a>
+  
+  <div style="margin-right: 20px;"></div>
+  
   <a href="https://www.linkedin.com/in/md-shakil-hossain-60564519b">
-    <img alt="svgImg" src="/images/linked.png"/>
+    <img alt="" src="/images/in-bar.png"/>
   </a>
+
+  <div style="margin-right: 20px;"></div>
+  
   <a href="https://twitter.com/creative_shakil">
-    <img alt="svgImg" src="/images/x-twit.png"/>
+    <img alt="" src="/images/x-bar.png"/>
+  </a>
 </p>
 
 ## 🛠️ Recent Projects Highlights:
