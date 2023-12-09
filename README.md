@@ -1,4 +1,5 @@
-![The San Juan Mountains are beautiful!](https://i.ibb.co/3WchbxM/cover-of-git.png, "San Juan Mountains")
+
+![Github Cover](/images/cover-of-git.png)
 
 ## 🌐 Current States
 
