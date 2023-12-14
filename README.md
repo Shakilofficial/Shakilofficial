@@ -45,13 +45,19 @@
 
 > Project Name: **City Scape**
 
-_Info: CityScape is a Real State Company. This is a multi vendor e-commerce site. where user and Agent can buy or sell their property. Admin can manage the overall system of the CityScape Inc._
+_Info: City Scape is a real estate platform developed using the MERN stack. It is an
+online E-commerce platform where people can add and buy real estate properties. The platform has multiple roles._
 
 ### Features:
 
+- Users can create accounts, manage their accounts, purchase properties with transparent transactions, and leave reviews.
+- Agents can create accounts, add properties for selling, manage property information, and sell properties that receive purchase requests from users as buyers.
+- Admins can manage the overall system, including users and agents.
+
 - Engage seamlessly with our user-centric features, including reviews, wishlists , and personalized dashboards, enhancing your overall experience and simplifying property management.
-- City Scape prioritizes security with robust authentication, ensuring a safe user experience.
-- Coupled with a responsive design for multi-device accessibility and real-time notifications, City Scape provide a transparent and efficient environment for all your property transactions.
+
+- City Scape prioritizes security with authentication, ensuring a safe user experience.
+- Coupled with a responsive design for multi-device accessibility. City Scape provide a transparent and efficient environment for all your property transactions.
 
 `Live Link` : https://cityscape-93609.web.app
 
