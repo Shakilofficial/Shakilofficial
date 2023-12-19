@@ -32,7 +32,7 @@
     <img alt="" src="/images/facebook-bar.png"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/md-shakil-hossain-60564519b">
+  <a href="https://www.linkedin.com/in/md-shakilhossain">
     <img alt="" src="/images/in-bar.png"/>
   </a>
   
