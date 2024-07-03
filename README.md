@@ -1,4 +1,4 @@
-![Github Cover](/images/cover-of-git.png)
+![Github Cover](/images/Banner-Github.png)
 
 ## 🌐 Current States
 
