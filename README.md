@@ -29,15 +29,15 @@
 
 <p align="center">
   <a href="https://www.facebook.com/iamshakilhossain">
-    <img alt="" src="/images/facebook-bar.png"/>
+    <img alt="" src="/images/facebook.gif"/>
   </a>
 
   <a href="https://www.linkedin.com/in/md-shakil-hossain-60564519b">
-    <img alt="" src="/images/in-bar.png"/>
+    <img alt="" src="/images/linkd.gif"/>
   </a>
   
   <a href="https://twitter.com/creative_shakil">
-    <img alt="" src="/images/x-bar.png"/>
+    <img alt="" src="/images/xfollow.gif"/>
   </a>
 </p>
 
