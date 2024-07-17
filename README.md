@@ -6,6 +6,12 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Shakilofficial&theme=dracula&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 </div>
 
+<div style="display: flex-wrap; justify-content: space-around;">
+  <img src="https://stats.quira.sh/Shakilofficial/github?theme=dark" alt="Shakilofficial's GitHub | Stats" style="width: 300px; height: 200px;" />
+  <img src="https://stats.quira.sh/Shakilofficial/topics-over-time?theme=dark" alt="Shakilofficial's GitHub | Topics Over Time" style="width: 300px; height: 200px;" />
+  <img src="https://stats.quira.sh/Shakilofficial/languages-over-time?theme=dark" alt="Shakilofficial's GitHub | Languages Over Time" style="width: 300px; height: 200px;" />
+</div>
+
 ## 💻 My Technology Stack
 
 <p align="center">
