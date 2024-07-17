@@ -4,7 +4,7 @@
 
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Shakilofficial&theme=algolia&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
-<div style="display: flex-col ; justify-content: space-around;">
+<div style="display: flex-col ; justify-content: space-around; margin-top:20px;">
   <img src="https://stats.quira.sh/Shakilofficial/github?theme=dark" alt="Shakilofficial's GitHub | Stats" style="width: 300px; height: 200px;" />
   <img src="https://stats.quira.sh/Shakilofficial/topics-over-time?theme=dark" alt="Shakilofficial's GitHub | Topics Over Time" style="width: 300px; height: 200px;" />
   <img src="https://stats.quira.sh/Shakilofficial/languages-over-time?theme=dark" alt="Shakilofficial's GitHub | Languages Over Time" style="width: 300px; height: 200px;" />
