@@ -3,7 +3,7 @@
 ## 🌐 Current States
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shakilofficial&theme=algolia&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="width: 400px; height: 200px; margin: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shakilofficial&theme=algolia&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="width: full; height: 300px;"/>
   <img src="https://stats.quira.sh/Shakilofficial/github?theme=dark" alt="Shakilofficial's GitHub | Stats" style="width: 400px; height: 260px; margin: 10px;" />
   <img src="https://stats.quira.sh/Shakilofficial/topics-over-time?theme=dark" alt="Shakilofficial's GitHub | Topics Over Time" style="width: 400px; height: 260px; margin: 10px;" />
   <img src="https://stats.quira.sh/Shakilofficial/languages-over-time?theme=dark" alt="Shakilofficial's GitHub | Languages Over Time" style="width: 400px; height: 260px; margin: 10px;" />
