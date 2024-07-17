@@ -1,4 +1,4 @@
-![Github Cover](/images/cover-of-git.png)
+![Github Cover](/images/Banner-Github.png)
 
 ## 🌐 Current States
 
@@ -33,7 +33,7 @@
   </a>
 
   <a href="https://www.linkedin.com/in/md-shakil-hossain-60564519b">
-    <img alt="" src="/images/linkd.gif"/>
+    <img alt="" src="/images/in-bar.png"/>
   </a>
   
   <a href="https://twitter.com/creative_shakil">
