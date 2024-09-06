@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,mongodb,nodejs,express,firebase,next" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,mongodb,nodejs,express,next" />
   </a>
 </p>
 
@@ -32,15 +32,11 @@
 
 <p align="center">
   <a href="https://www.facebook.com/iamshakilhossain">
-    <img  alt="" src="/images/facebook.gif"/>
+    <img  alt="" src="/images/facebook.png"/>
   </a>
 
   <a href="https://www.linkedin.com/in/md-shakil-hossain-60564519b">
-    <img alt="" src="/images/linkd.gif"/>
-  </a>
-  
-  <a href="https://twitter.com/creative_shakil">
-    <img alt="" src="/images/xfollow.gif"/>
+    <img alt="" src="/images/linkedin.png"/>
   </a>
 </p>
 
