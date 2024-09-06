@@ -32,11 +32,11 @@
 
 <p align="center">
   <a href="https://www.facebook.com/iamshakilhossain">
-    <img  alt="" src="/images/facebook.png"/>
+    <img height="55" alt="" src="/images/facebook.png"/>
   </a>
 
   <a href="https://www.linkedin.com/in/md-shakil-hossain-60564519b">
-    <img alt="" src="/images/linkedin.png"/>
+    <img height="55" alt="" src="/images/linkedin.png"/>
   </a>
 </p>
 
