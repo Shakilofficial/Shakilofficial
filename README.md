@@ -18,7 +18,7 @@
 - 🌱 Exploring **SQL and advanced backend technologies.**
 - 🤝 Open to **collaborations** and networking.
 - 💬 Feel free to **share your thoughts** with me.
-- 📫 **Let's connect** on [LinkedIn](https://www.linkedin.com/in/md-shakilhossain/) or [Email](mailto:mrshakilhossain@outlook.com).
+- 📫 **Let's connect** on [LinkedIn](https://www.linkedin.com/in/md-shakilhossain) or [Email](mailto:mrshakilhossain@outlook.com).
 - ⚡ Fun fact: **I love exploring new technologies and optimizing workflows.**
 
 ---
@@ -58,7 +58,7 @@ _A sleek portfolio with animations, blogs, and a dynamic dashboard._
   <a href="https://www.facebook.com/iamshakilhossain">
     <img height="50" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/md-shakilhossain/">
+  <a href="https://www.linkedin.com/in/md-shakilhossain">
     <img height="50" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:mrshakilhossain@outlook.com">
