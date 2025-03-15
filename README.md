@@ -68,6 +68,25 @@ _A sleek portfolio with animations, blogs, and a dynamic dashboard._
 
 ---
 
+### 🎯 **Fun Widgets & Extras**
+
+- ⏳ **Coding Streak & Top Languages:**
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Shakilofficial&theme=algolia&border_radius=5" alt="Coding Streak"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shakilofficial&layout=compact&theme=algolia" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 📊 **GitHub Stats & Contributions**
 
 <p align="center">
@@ -79,16 +98,6 @@ _A sleek portfolio with animations, blogs, and a dynamic dashboard._
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Shakilofficial&theme=algolia&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
-
----
-
-### 🎯 **Fun Widgets & Extras**
-
-- ⏳ **Coding Streak:**  
-  ![Coding Streak](https://github-readme-streak-stats.herokuapp.com?user=Shakilofficial&theme=algolia&border_radius=5)
-
-- 💻 **Most Used Languages:**  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakilofficial&layout=compact&theme=algolia)
 
 ---
 
