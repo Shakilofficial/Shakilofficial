@@ -1,123 +1,103 @@
-![Github Cover](/images/CoverGit.gif)
+### 🚀 **Welcome to My GitHub!**
 
-## 🌐 Current States
+![Github Cover](./images/CoverGit.gif)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shakilofficial&theme=algolia&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="width: full; height: 300px;"/>
-  
+<div align="center">  
+  <a href="https://github.com/Shakilofficial"><img src="https://github-readme-stats.vercel.app/api?username=Shakilofficial&show_icons=true&theme=algolia&count_private=true&hide_border=true" alt="GitHub Stats" /></a>  
+  <a href="https://github.com/Shakilofficial"><img src="https://github-readme-streak-stats.herokuapp.com?user=Shakilofficial&theme=algolia&border_radius=5" alt="GitHub Streak" /></a>  
+  <a href="https://github.com/Shakilofficial"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shakilofficial&theme=algolia" alt="GitHub Activity Graph" /></a>  
 </div>
 
-## 💻 My Technology Stack
+---
+
+## 💻 **Tech Stack & Skills**
 
 <p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,next,nodejs,express,mongodb,postman" />
-  </a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,next,nodejs,express,mongodb,postman,vscode,git,github,figma" alt="Skills" /></a>
 </p>
 
-## 🚀 Overview
+---
 
-- 🔭 I’m working on creating projects.
-- 🌱 I’m learning SQL backend Technologies.
-- 👯 I’m looking to collaborate on small projects with other developers to improve together.
-- 🤔 I'm seeking opportunities to showcase my skills.
-- 💬 Feel free to share your thoughts about me.
-- 📫 Connect with me on LinkedIn or Email
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Exploring New Tech
+## 🚀 **Overview**
 
-## 📬 Feel free to reach out to me
+- 🔭 I’m currently working on **building real-world full-stack projects.**
+- 🌱 Exploring **SQL and advanced backend technologies.**
+- 🤝 Open to **collaborations** and networking.
+- 💬 Feel free to **share your thoughts** with me.
+- 📫 **Let's connect** on [LinkedIn](https://www.linkedin.com/in/md-shakilhossain/) or [Email](mailto:mrshakilhossain@outlook.com).
+- ⚡ Fun fact: **I love exploring new technologies and optimizing workflows.**
+
+---
+
+## 🛠️ **Recent Projects Highlights**
+
+### 🚀 [**TUTORLINK**](https://tutor-link-web.vercel.app)
+
+_A platform connecting students with tutors, featuring booking, secure payments, and an analytical dashboard._  
+**Tech Stack:** Next.js 15, TypeScript, Tailwind CSS, React Query, Node.js, Express.js, MongoDB, JWT
+
+🔗 **[Live Demo](https://tutor-link-web.vercel.app)** | [**Frontend Repo**](https://github.com/Shakilofficial/tutor-link.git) | [**Demo Video**](https://drive.google.com/file/d/1N5F7j7pJMCdSdqy8DQcU_JiwhSq27-Mf/view)
+
+---
+
+### 🛒 [**BookNest**](https://booknest-blond.vercel.app)
+
+_A full-stack e-commerce platform for books, featuring authentication, payments, and product management._  
+**Tech Stack:** Next.js, TypeScript, Tailwind CSS, Redux Toolkit, Express.js, MongoDB, JWT
+
+🔗 **[Live Demo](https://booknest-blond.vercel.app)** | [**Frontend Repo**](https://github.com/Shakilofficial/bookNest-client.git) | [**Backend Repo**](https://github.com/Shakilofficial/bookNest-server.git) | [**Demo Video**](https://drive.google.com/file/d/1GARhg0KL9KvNqonQexFuEd6hXiccUSi0/view)
+
+---
+
+### 🎨 [**Portfolio Website**](https://shakil-tawny.vercel.app)
+
+_A sleek portfolio with animations, blogs, and a dynamic dashboard._  
+**Tech Stack:** Next.js, TypeScript, Tailwind CSS, Framer Motion, Redux
+
+🔗 **[Live Demo](https://shakil-tawny.vercel.app)** | [**Frontend Repo**](https://github.com/Shakilofficial/portfolio-client.git) | [**Backend Repo**](https://github.com/Shakilofficial/portfolio-server.git) | [**Demo Video**](https://drive.google.com/file/d/1G0u7BVb99tnnNps1LVl3K8pcsIBx8cnr/view)
+
+---
+
+## 📬 **Connect with Me**
 
 <p align="center">
   <a href="https://www.facebook.com/iamshakilhossain">
-    <img height="55" alt="" src="/images/Fb.png"/>
+    <img height="50" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-
-  <a href="https://www.linkedin.com/in/md-shakil-hossain">
-    <img height="55" alt="" src="/images/linked.png"/>
+  <a href="https://www.linkedin.com/in/md-shakilhossain/">
+    <img height="50" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mrshakilhossain@outlook.com">
+    <img height="50" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-## 🛠️ Recent Projects Highlights:
+---
 
-Here’s a more professional and structured highlight format for your GitHub profile:
+## 📊 **GitHub Stats & Contributions**
+
+<p align="center">
+  <a href="https://github.com/Shakilofficial">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shakilofficial&theme=algolia" alt="GitHub Activity Graph"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shakilofficial&theme=algolia&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</p>
 
 ---
 
-## 🚀 **TUTORLINK**
+### 🎯 **Fun Widgets & Extras**
 
-_Info: Tutor-Link is a comprehensive platform that connects students with qualified tutors, offering a seamless experience for booking and managing tutoring sessions. It features a professional analytical dashboard for all user roles._
+- ⏳ **Coding Streak:**  
+  ![Coding Streak](https://github-readme-streak-stats.herokuapp.com?user=Shakilofficial&theme=algolia&border_radius=5)
 
-### **Features**
-
-- **User Authentication:** Secure login/signup with JWT authentication.
-- **Role-Based Access:** Dedicated roles for Admin, Tutor, and Student.
-- **Tutor Management:** Tutors can create profiles, list subjects, schedule availability, and manage bookings.
-- **Student-Tutor Matching:** Smart algorithm for personalized tutor recommendations.
-- **Booking System:** Students can schedule and manage tutoring sessions.
-- **Real-time Notifications:** Email alerts for session bookings and updates.
-- **Secure Payment Integration:** SSLCommerz for smooth and safe transactions.
-- **Review & Rating System:** Users can rate and review tutors for credibility.
-- **Blog System:** Tutors and students can write and engage with blogs.
-- **Admin Dashboard:** Manage users, bookings, reports, and analytics.
-
-### **Tech Stack**
-
-🖥️ **Frontend:** Next.js 15, TypeScript, Tailwind CSS, Shadcn/UI, Framer Motion, React Hook Form, Zod Validation, React Query  
-🛠 **Backend:** Node.js, Express.js, TypeScript, MongoDB, Mongoose, JWT Authentication, Cloudinary, SSLCommerz, Nodemailer
-
-🔗 **Live Link:** [TUTORLINK](https://tutor-link-web.vercel.app)  
-🔗 **Github Repo:** [Repo](https://github.com/Shakilofficial/tutor-link.git)
-🔗 **Project Demo Video Presentations:** [Video URL](hhttps://drive.google.com/file/d/1N5F7j7pJMCdSdqy8DQcU_JiwhSq27-Mf/view?usp=drive_link)
+- 💻 **Most Used Languages:**  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakilofficial&layout=compact&theme=algolia)
 
 ---
 
-## 🛒 **BookNest**
+🔥 **Thanks for stopping by!** I’m constantly working on **new projects** and **improving my skills.** Let's **connect and build** something awesome together! 🚀
 
-_Info: A full-stack e-commerce platform for purchasing books with secure payment processing and an intuitive admin dashboard._
 
-### **Features**
-
-- **User Authentication:** JWT-based secure login & role-based access.
-- **Product Management:** Admin can add, update, delete books with categorized browsing.
-- **Search & Filters:** Find books using search and category filters.
-- **Order Management:** Track orders, manage shipping, and payment processing.
-- **Review System:** Users can leave reviews and ratings for books.
-- **Admin Dashboard:** Manage users, products, and transactions.
-- **Fully Responsive:** Mobile-friendly design with reusable UI components.
-
-### **Tech Stack**
-
-🖥️ **Frontend:** Next.js, TypeScript, Tailwind CSS, Redux Toolkit  
-🛠 **Backend:** Node.js, Express.js, MongoDB, Mongoose, JWT, SSLCommerz
-
-🔗 **Live Link:** [BookNest](https://booknest-blond.vercel.app)
-🔗 **Client Repo:** [Client](https://github.com/Shakilofficial/bookNest-client.git)
-🔗 **Server Repo:** [Server](https://github.com/Shakilofficial/bookNest-server.git)
-🔗 **Project Demo Video Presentations:** [Video URL](https://drive.google.com/file/d/1GARhg0KL9KvNqonQexFuEd6hXiccUSi0/view?pli=1)
-
-## 🎨 **Portfolio Website (Next.js)**
-
-_Info: A sleek and responsive portfolio showcasing projects, blog posts, and a dynamic dashboard with full CRUD functionality._
-
-### **Features**
-
-- **Interactive Home Page:** Engaging introduction with Framer Motion animations.
-- **Project Showcase:** Dynamically displays portfolio projects with filtering.
-- **Blog System:** Fetches and displays blog posts dynamically.
-- **Contact Form:** Users can send messages directly via email.
-- **Dashboard:** Secure authentication, role-based access, and real-time updates.
-- **Dark Mode & Customizable UI:** Fully adaptable to user preferences.
-
-### **Tech Stack**
-
-🖥️ **Frontend:** Next.js (TypeScript), Tailwind CSS, Framer Motion, Shadcn/UI, Redux  
-🔐 **Authentication:** JWT & NextAuth for secure user login
-
-🔗 **Live Link:** [PORTFOLIO](https://shakil-tawny.vercel.app)
-🔗 **Client Repo:** [Client](https://github.com/Shakilofficial/portfolio-client.git)
-🔗 **Server Repo:** [Client](https://github.com/Shakilofficial/portfolio-server.git)
-
-🔗 **Project Demo Video Presentations:** [Video URL](https://drive.google.com/file/d/1G0u7BVb99tnnNps1LVl3K8pcsIBx8cnr/view?usp=sharing)
-
----
