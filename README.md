@@ -4,102 +4,120 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Shakilofficial&theme=algolia&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="width: full; height: 300px;"/>
-  <img src="https://stats.quira.sh/Shakilofficial/github?theme=dark" alt="Shakilofficial's GitHub | Stats" style="width: 400px; height: 260px; margin: 10px;" />
-  <img src="https://stats.quira.sh/Shakilofficial/topics-over-time?theme=dark" alt="Shakilofficial's GitHub | Topics Over Time" style="width: 400px; height: 260px; margin: 10px;" />
-  <img src="https://stats.quira.sh/Shakilofficial/languages-over-time?theme=dark" alt="Shakilofficial's GitHub | Languages Over Time" style="width: 400px; height: 260px; margin: 10px;" />
+  
 </div>
 
 ## 💻 My Technology Stack
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,firebase,mongodb,nodejs,express,next" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,next,nodejs,express,mongodb,postman" />
   </a>
 </p>
 
 ## 🚀 Overview
 
-- 🔭 I’m working on creating my portfolio website.
-- 🌱 I’m learning Next.js and advanced JavaScript.
+- 🔭 I’m working on creating projects.
+- 🌱 I’m learning SQL backend Technologies.
 - 👯 I’m looking to collaborate on small projects with other developers to improve together.
 - 🤔 I'm seeking opportunities to showcase my skills.
 - 💬 Feel free to share your thoughts about me.
 - 📫 Connect with me on LinkedIn or Email
-- 😄 Pronouns: Shakil
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Exploring New Tech
 
 ## 📬 Feel free to reach out to me
 
 <p align="center">
   <a href="https://www.facebook.com/iamshakilhossain">
-    <img height="55" alt="" src="/images/facebook.png"/>
+    <img height="55" alt="" src="/images/Fb.png"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/md-shakil-hossain-60564519b">
-    <img height="55" alt="" src="/images/linkedin.png"/>
+  <a href="https://www.linkedin.com/in/md-shakil-hossain">
+    <img height="55" alt="" src="/images/linked.png"/>
   </a>
 </p>
 
 ## 🛠️ Recent Projects Highlights:
 
-> Project Name: **City Scape**
+Here’s a more professional and structured highlight format for your GitHub profile:
 
-_Info: City Scape is a real estate platform developed using the MERN stack. It is an
-online E-commerce platform where people can add and buy real estate properties. The platform has multiple roles._
+---
 
-### Features:
+## 🚀 **TUTORLINK**
 
-- Users can create accounts, manage their accounts, purchase properties with transparent transactions, and leave reviews.
-- Agents can create accounts, add properties for selling, manage property information, and sell properties that receive purchase requests from users as buyers.
-- Admins can manage the overall system, including users and agents.
+_Info: Tutor-Link is a comprehensive platform that connects students with qualified tutors, offering a seamless experience for booking and managing tutoring sessions. It features a professional analytical dashboard for all user roles._
 
-- Engage seamlessly with our user-centric features, including reviews, wishlists , and personalized dashboards, enhancing your overall experience and simplifying property management.
+### **Features**
 
-- City Scape prioritizes security with authentication, ensuring a safe user experience.
-- Coupled with a responsive design for multi-device accessibility. City Scape provide a transparent and efficient environment for all your property transactions.
+- **User Authentication:** Secure login/signup with JWT authentication.
+- **Role-Based Access:** Dedicated roles for Admin, Tutor, and Student.
+- **Tutor Management:** Tutors can create profiles, list subjects, schedule availability, and manage bookings.
+- **Student-Tutor Matching:** Smart algorithm for personalized tutor recommendations.
+- **Booking System:** Students can schedule and manage tutoring sessions.
+- **Real-time Notifications:** Email alerts for session bookings and updates.
+- **Secure Payment Integration:** SSLCommerz for smooth and safe transactions.
+- **Review & Rating System:** Users can rate and review tutors for credibility.
+- **Blog System:** Tutors and students can write and engage with blogs.
+- **Admin Dashboard:** Manage users, bookings, reports, and analytics.
 
-`Live Link` : https://cityscape-93609.web.app
+### **Tech Stack**
 
-`Client Repo` : https://github.com/Shakilofficial/city-scape-client
+🖥️ **Frontend:** Next.js 15, TypeScript, Tailwind CSS, Shadcn/UI, Framer Motion, React Hook Form, Zod Validation, React Query  
+🛠 **Backend:** Node.js, Express.js, TypeScript, MongoDB, Mongoose, JWT Authentication, Cloudinary, SSLCommerz, Nodemailer
 
-`Server Repo` : https://github.com/Shakilofficial/city-scape-server
+🔗 **Live Link:** [TUTORLINK](https://tutor-link-web.vercel.app)  
+🔗 **Github Repo:** [Repo](https://github.com/Shakilofficial/tutor-link.git)
+🔗 **Project Demo Video Presentations:** [Video URL](hhttps://drive.google.com/file/d/1N5F7j7pJMCdSdqy8DQcU_JiwhSq27-Mf/view?usp=drive_link)
 
-> Project Name: **ExcessEats**
+---
 
-_Info: Community Food Sharing and Surplus Reduction Platform. Technology Uses- React, Firebase, JWT, Node.js (Express.js) , MongoDB, Tailwind CSS._
+## 🛒 **BookNest**
 
-### Features:
+_Info: A full-stack e-commerce platform for purchasing books with secure payment processing and an intuitive admin dashboard._
 
-- Find and request food: Easily browse food listings and request food that you need.
-- Share food: Easily post food listings to share your surplus food with others.
-- Send and receive messages to arrange food pick-ups, ask questions, and build relationships.
-- Manage your account: View your past listings and requests, update your profile information, and change your settings.
-- Report problems: Report any problems or concerns you may have.
+### **Features**
 
-`Live Link` : https://excess-eats.web.app
+- **User Authentication:** JWT-based secure login & role-based access.
+- **Product Management:** Admin can add, update, delete books with categorized browsing.
+- **Search & Filters:** Find books using search and category filters.
+- **Order Management:** Track orders, manage shipping, and payment processing.
+- **Review System:** Users can leave reviews and ratings for books.
+- **Admin Dashboard:** Manage users, products, and transactions.
+- **Fully Responsive:** Mobile-friendly design with reusable UI components.
 
-`Client Repo` : https://github.com/Shakilofficial/community-food-sharing-client
+### **Tech Stack**
 
-`Server Repo` : https://github.com/Shakilofficial/community-food-sharing-server
+🖥️ **Frontend:** Next.js, TypeScript, Tailwind CSS, Redux Toolkit  
+🛠 **Backend:** Node.js, Express.js, MongoDB, Mongoose, JWT, SSLCommerz
 
-> Project Name: **Brand Shop**
+🔗 **Live Link:** [BookNest](https://booknest-blond.vercel.app)
+🔗 **Client Repo:** [Client](https://github.com/Shakilofficial/bookNest-client.git)
+🔗 **Server Repo:** [Server](https://github.com/Shakilofficial/bookNest-server.git)
+🔗 **Project Demo Video Presentations:** [Video URL](https://drive.google.com/file/d/1GARhg0KL9KvNqonQexFuEd6hXiccUSi0/view?pli=1)
 
-_Info: This is the brand Shop based simple e-commerce or a site which is represent the brand shop._
+## 🎨 **Portfolio Website (Next.js)**
 
-### Features:
+_Info: A sleek and responsive portfolio showcasing projects, blog posts, and a dynamic dashboard with full CRUD functionality._
 
-- Brand-Based Categories: The website specializes in one of seven categories, such as Technology ensuring a focused user experience.
+### **Features**
 
-- User Authentication: Users can register and log in with email and password or alternative logins (e.g., Google), providing a personalized experience.
+- **Interactive Home Page:** Engaging introduction with Framer Motion animations.
+- **Project Showcase:** Dynamically displays portfolio projects with filtering.
+- **Blog System:** Fetches and displays blog posts dynamically.
+- **Contact Form:** Users can send messages directly via email.
+- **Dashboard:** Secure authentication, role-based access, and real-time updates.
+- **Dark Mode & Customizable UI:** Fully adaptable to user preferences.
 
-- Product Management: Users can add, update, and view detailed information about products, including images, descriptions, and prices.
+### **Tech Stack**
 
-- Shopping Cart: Shoppers can add products to their cart, review their selections, and proceed to checkout, making online shopping convenient.
+🖥️ **Frontend:** Next.js (TypeScript), Tailwind CSS, Framer Motion, Shadcn/UI, Redux  
+🔐 **Authentication:** JWT & NextAuth for secure user login
 
-- Responsive Design: The website adapts to different devices, offering a seamless experience on both desktop and mobile platforms, enhancing accessibility.
+🔗 **Live Link:** [PORTFOLIO](https://shakil-tawny.vercel.app)
+🔗 **Client Repo:** [Client](https://github.com/Shakilofficial/portfolio-client.git)
+🔗 **Server Repo:** [Client](https://github.com/Shakilofficial/portfolio-server.git)
 
-`Live Link` : https://illustrious-knife.surge.sh
+🔗 **Project Demo Video Presentations:** [Video URL](https://drive.google.com/file/d/1G0u7BVb99tnnNps1LVl3K8pcsIBx8cnr/view?usp=sharing)
 
-`Client Repo` : https://github.com/Shakilofficial/brand-shop-client
-
-`Server Repo` : https://github.com/Shakilofficial/-brand-shop-server
+---
