@@ -2,18 +2,12 @@
 
 ![Github Cover](./images/CoverGit.gif)
 
-<div align="center">  
-  <a href="https://github.com/Shakilofficial"><img src="https://github-readme-stats.vercel.app/api?username=Shakilofficial&show_icons=true&theme=algolia&count_private=true&hide_border=true" alt="GitHub Stats" /></a>  
-  <a href="https://github.com/Shakilofficial"><img src="https://github-readme-streak-stats.herokuapp.com?user=Shakilofficial&theme=algolia&border_radius=5" alt="GitHub Streak" /></a>  
-  <a href="https://github.com/Shakilofficial"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shakilofficial&theme=algolia" alt="GitHub Activity Graph" /></a>  
-</div>
-
 ---
 
 ## 💻 **Tech Stack & Skills**
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,next,nodejs,express,mongodb,postman,vscode,git,github,figma" alt="Skills" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,next,nodejs,express,mongodb,postman,figma" alt="Skills" /></a>
 </p>
 
 ---
@@ -99,5 +93,3 @@ _A sleek portfolio with animations, blogs, and a dynamic dashboard._
 ---
 
 🔥 **Thanks for stopping by!** I’m constantly working on **new projects** and **improving my skills.** Let's **connect and build** something awesome together! 🚀
-
-
