@@ -30,7 +30,7 @@
 _A platform connecting students with tutors, featuring booking, secure payments, and an analytical dashboard._  
 **Tech Stack:** Next.js 15, TypeScript, Tailwind CSS, React Query, Node.js, Express.js, MongoDB, JWT
 
-🔗 **[Live Demo](https://tutor-link-web.vercel.app)** | [**Frontend Repo**](https://github.com/Shakilofficial/tutor-link.git) | [**Demo Video**](https://drive.google.com/file/d/1N5F7j7pJMCdSdqy8DQcU_JiwhSq27-Mf/view)
+🔗 **[Live Demo](https://tutor-link-web.vercel.app)** | [**Repo**](https://github.com/Shakilofficial/tutor-link.git) | [**Demo Video**](https://drive.google.com/file/d/1N5F7j7pJMCdSdqy8DQcU_JiwhSq27-Mf/view)
 
 ---
 
