@@ -35,7 +35,7 @@ TutorLink is an innovative platform designed to connect students with experience
 ### 🛒 [**NEXA**](https://ecom-nexa-web.vercel.app)
 NEXA is a feature-rich full-stack e-commerce platform built to deliver a seamless online shopping experience for books. The platform is designed for high performance, scalability, and exceptional user experience. Users can browse a wide variety of books, filter results by categories, and add products to their cart or wishlist. The checkout process is secure, powered by SSLCommerz integration. The platform supports dynamic cart functionality, coupon-based discounts, and order tracking. Admins can manage products, users, and orders through a role-based dashboard. With Next.js 15, TypeScript, Tailwind CSS, and Redux Toolkit, the site is fully optimized for both desktop and mobile. The backend is built using Node.js, Express.js, MongoDB, and JWT, providing a robust and scalable solution.
 
-🔗 **[Live Demo](https://ecom-nexa-web.vercel.app)** | [**Repo**](https://github.com/Shakilofficial/nextmart-client.git) |
+🔗 **[Live Demo](https://ecom-nexa-web.vercel.app)** | [**Frontend Repo**](https://github.com/Shakilofficial/nextmart-client.git) | [**Backend Repo**](https://github.com/Shakilofficial/nextmart-server.git) |
 
 ---
 
