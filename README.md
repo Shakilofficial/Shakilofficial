@@ -1,4 +1,4 @@
-### 🚀 **Welcome to My GitHub!**
+I'm### 🚀 **Welcome to My GitHub!**
 
 ![Github Cover](./images/Banner-Github.gif)
 
@@ -41,7 +41,7 @@ NEXA is a feature-rich full-stack e-commerce platform built to deliver a seamles
 
 ### 📚 [**BookNest**](https://booknest-blond.vercel.app)
 
-BookNest is a modern full-stack e-commerce platform tailored for book lovers. The platform allows users to browse, search, and purchase books online. Users can easily sign up, login, and manage their profiles while enjoying a smooth shopping experience. It features secure payment integration, real-time order tracking, and personalized recommendations. The admin panel provides robust functionality for managing product listings, users, and orders, with role-based access control for security. The website is built with Next.js, TypeScript, Tailwind CSS, and Redux Toolkit, ensuring both excellent performance and scalability. The backend is powered by Express.js, MongoDB, and JWT for authentication. Whether users are browsing or managing products, the platform is responsive and optimized for a smooth experience across all devices.
+BookNest is a modern full-stack e-commerce platform tailored for book lovers. The platform allows users to browse, search, and purchase books online. Users can easily sign up, login, and manage their profiles while enjoying a smooth shopping experience. It features secure payment integration, real-time order tracking, and personalized recommendations. The admin panel provides robust functionality for managing product listings, users, and orders, with role-based access control for security. The website is built with React.js, TypeScript, Tailwind CSS, and Redux Toolkit, ensuring both excellent performance and scalability. The backend is powered by Express.js, MongoDB, and JWT for authentication. Whether users are browsing or managing products, the platform is responsive and optimized for a smooth experience across all devices.
 
 🔗 **[Live Demo](https://booknest-blond.vercel.app)** | [**Frontend Repo**](https://github.com/Shakilofficial/bookNest-client.git) | [**Backend Repo**](https://github.com/Shakilofficial/bookNest-server.git) | [**Demo Video**](https://drive.google.com/file/d/1GARhg0KL9KvNqonQexFuEd6hXiccUSi0/view)
 
