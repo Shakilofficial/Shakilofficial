@@ -23,6 +23,14 @@
 
 ---
 
+[![Shakil](https://github-readme-medium.vercel.app/?username=creative.shakilofficiallimit=2&bg=222f2e&text=ff0000)](https://medium.com/@creative.shakilofficial)
+
+[![Shakil](https://github-readme-medium.vercel.app/?username=omidnikrah&limit=2&bg=red&text=green)](https://medium.com/@creative.shakilofficial)
+
+[![Shakil](https://github-readme-medium.vercel.app/?username=creative.shakilofficial&limit=2&bg=222f2e&text=ff0000)](https://medium.com/@creative.shakilofficial)
+
+---
+
 ## 🛠️ **Recent Projects Highlights**
 
 ### 🚀 [**TUTORLINK**](https://tutor-link-web.vercel.app)
