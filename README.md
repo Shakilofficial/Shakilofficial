@@ -1,4 +1,4 @@
-I'm### 🚀 **Welcome to My GitHub!**
+🚀 **Welcome to My GitHub!**
 
 ![Github Cover](./images/Banner-Github.gif)
 
