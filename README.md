@@ -25,8 +25,7 @@
 
 ### 🚀 [**TUTORLINK**](https://tutor-link-web.vercel.app)
 
-_A platform connecting students with tutors, featuring booking, secure payments, and an analytical dashboard._  
-**Tech Stack:** Next.js 15, TypeScript, Tailwind CSS, React Query, Node.js, Express.js, MongoDB, JWT
+TutorLink is an innovative platform designed to connect students with experienced tutors. The platform facilitates seamless online tutoring by allowing users to easily search and book sessions based on their preferences. It features secure payment systems for hassle-free transactions and an intuitive user interface. TutorLink also includes an analytics dashboard that helps tutors track their session history, earnings, and student feedback. Built using Next.js 15, TypeScript, and Tailwind CSS, the application ensures responsiveness and scalability. The backend is powered by Node.js, Express.js, and MongoDB, with JWT for secure authentication. The integration of React Query helps with data fetching and synchronization, ensuring a smooth user experience.
 
 🔗 **[Live Demo](https://tutor-link-web.vercel.app)** | [**Repo**](https://github.com/Shakilofficial/tutor-link.git) | [**Demo Video**](https://drive.google.com/file/d/1N5F7j7pJMCdSdqy8DQcU_JiwhSq27-Mf/view)
 
@@ -34,13 +33,7 @@ _A platform connecting students with tutors, featuring booking, secure payments,
 
 
 ### 🛒 [**NEXA**](https://ecom-nexa-web.vercel.app)
-_A full-stack e-commerce platform for books, featuring authentication, payments, and product management._
-
-**NEXA** is a modern, full-featured e-commerce platform built for performance, scalability, and sleek user experience. It offers seamless user authentication, product browsing, secure checkout, and robust admin capabilities. The platform supports dynamic cart and wishlist systems, coupon-based discounts, order tracking, and real-time notifications.
-
-Customers can browse and filter products, add items to cart or wishlist, apply coupons, and securely checkout via SSLCommerz. Admins can manage products, users, and orders from a dedicated dashboard with role-based access control. The entire platform is responsive, optimized, and built with performance and usability in mind.
-
-**Tech Stack:** Next.js 15, TypeScript, Tailwind CSS, Redux Toolkit, Framer Motion, React Hook Form, Node.js, Express.js, MongoDB, JWT,Nodemailer,SSLcommerz.
+NEXA is a feature-rich full-stack e-commerce platform built to deliver a seamless online shopping experience for books. The platform is designed for high performance, scalability, and exceptional user experience. Users can browse a wide variety of books, filter results by categories, and add products to their cart or wishlist. The checkout process is secure, powered by SSLCommerz integration. The platform supports dynamic cart functionality, coupon-based discounts, and order tracking. Admins can manage products, users, and orders through a role-based dashboard. With Next.js 15, TypeScript, Tailwind CSS, and Redux Toolkit, the site is fully optimized for both desktop and mobile. The backend is built using Node.js, Express.js, MongoDB, and JWT, providing a robust and scalable solution.
 
 🔗 **[Live Demo](https://ecom-nexa-web.vercel.app)** | [**Repo**](https://github.com/Shakilofficial/nextmart-client.git) |
 
@@ -48,8 +41,7 @@ Customers can browse and filter products, add items to cart or wishlist, apply c
 
 ### 📚 [**BookNest**](https://booknest-blond.vercel.app)
 
-_A full-stack e-commerce platform for books, featuring authentication, payments, and product management._  
-**Tech Stack:** Next.js, TypeScript, Tailwind CSS, Redux Toolkit, Express.js, MongoDB, JWT
+BookNest is a modern full-stack e-commerce platform tailored for book lovers. The platform allows users to browse, search, and purchase books online. Users can easily sign up, login, and manage their profiles while enjoying a smooth shopping experience. It features secure payment integration, real-time order tracking, and personalized recommendations. The admin panel provides robust functionality for managing product listings, users, and orders, with role-based access control for security. The website is built with Next.js, TypeScript, Tailwind CSS, and Redux Toolkit, ensuring both excellent performance and scalability. The backend is powered by Express.js, MongoDB, and JWT for authentication. Whether users are browsing or managing products, the platform is responsive and optimized for a smooth experience across all devices.
 
 🔗 **[Live Demo](https://booknest-blond.vercel.app)** | [**Frontend Repo**](https://github.com/Shakilofficial/bookNest-client.git) | [**Backend Repo**](https://github.com/Shakilofficial/bookNest-server.git) | [**Demo Video**](https://drive.google.com/file/d/1GARhg0KL9KvNqonQexFuEd6hXiccUSi0/view)
 
@@ -57,8 +49,7 @@ _A full-stack e-commerce platform for books, featuring authentication, payments,
 
 ### 🎨 [**Portfolio Website**](https://shakil-tawny.vercel.app)
 
-_A sleek portfolio with animations, blogs, and a dynamic dashboard._  
-**Tech Stack:** Next.js, TypeScript, Tailwind CSS, Framer Motion, Redux
+Portfolio Website is a personal portfolio platform showcasing my work, skills, and projects. The website features a sleek, modern design with smooth animations and transitions powered by Framer Motion. It provides detailed project case studies, each highlighting the technologies and techniques used to develop them. The dynamic dashboard enables easy updates to the portfolio, allowing for seamless integration of new projects and blogs. Built with Next.js, TypeScript, Tailwind CSS, and Redux, the website is fast, responsive, and user-friendly. The backend is powered by Node.js and Express.js, with MongoDB for storing project details and blogs. This portfolio site highlights my design and development skills, presenting a cohesive view of my capabilities and achievements in web development.
 
 🔗 **[Live Demo](https://shakil-tawny.vercel.app)** | [**Frontend Repo**](https://github.com/Shakilofficial/portfolio-client.git) | [**Backend Repo**](https://github.com/Shakilofficial/portfolio-server.git) | [**Demo Video**](https://drive.google.com/file/d/1G0u7BVb99tnnNps1LVl3K8pcsIBx8cnr/view)
 
