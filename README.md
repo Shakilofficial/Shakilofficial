@@ -21,16 +21,6 @@
 - 📫 **Let's connect** on [LinkedIn](https://www.linkedin.com/in/md-shakilhossain) or [Email](mailto:mrshakilhossain@outlook.com).
 - ⚡ Fun fact: **I love exploring new technologies and optimizing workflows.**
 
----
-
-[![Shakil](https://github-readme-medium.vercel.app/?username=creative.shakilofficiallimit=2&bg=222f2e&text=ff0000)](https://medium.com/@creative.shakilofficial)
-
-[![Shakil](https://github-readme-medium.vercel.app/?username=omidnikrah&limit=2&bg=red&text=green)](https://medium.com/@creative.shakilofficial)
-
-[![Shakil](https://github-readme-medium.vercel.app/?username=creative.shakilofficial&limit=2&bg=222f2e&text=ff0000)](https://medium.com/@creative.shakilofficial)
-
----
-
 ## 🛠️ **Recent Projects Highlights**
 
 ### 🚀 [**TUTORLINK**](https://tutor-link-web.vercel.app)
@@ -42,7 +32,21 @@ _A platform connecting students with tutors, featuring booking, secure payments,
 
 ---
 
-### 🛒 [**BookNest**](https://booknest-blond.vercel.app)
+
+### 🛒 [**NEXA**](https://ecom-nexa-web.vercel.app)
+_A full-stack e-commerce platform for books, featuring authentication, payments, and product management._
+
+**NEXA** is a modern, full-featured e-commerce platform built for performance, scalability, and sleek user experience. It offers seamless user authentication, product browsing, secure checkout, and robust admin capabilities. The platform supports dynamic cart and wishlist systems, coupon-based discounts, order tracking, and real-time notifications.
+
+Customers can browse and filter products, add items to cart or wishlist, apply coupons, and securely checkout via SSLCommerz. Admins can manage products, users, and orders from a dedicated dashboard with role-based access control. The entire platform is responsive, optimized, and built with performance and usability in mind.
+
+**Tech Stack:** Next.js 15, TypeScript, Tailwind CSS, Redux Toolkit, Framer Motion, React Hook Form, Node.js, Express.js, MongoDB, JWT,Nodemailer,SSLcommerz.
+
+🔗 **[Live Demo](https://ecom-nexa-web.vercel.app)** | [**Repo**](https://github.com/Shakilofficial/nextmart-client.git) |
+
+---
+
+### 📚 [**BookNest**](https://booknest-blond.vercel.app)
 
 _A full-stack e-commerce platform for books, featuring authentication, payments, and product management._  
 **Tech Stack:** Next.js, TypeScript, Tailwind CSS, Redux Toolkit, Express.js, MongoDB, JWT
