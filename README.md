@@ -44,7 +44,9 @@ Driven by a love for clean code, continuous learning, and collaboration, I’m a
 ## 📬 **Connect with Me**
 
 <p align="center">
-
+  <a href="https://www.linkedin.com/in/md-shakilhossain">
+    <img height="50" src="images/lkin.png"/>
+  </a>
   <a href="https://www.facebook.com/iamshakilhossain">
     <img height="50" src="images/fb.png"/>
   </a>
