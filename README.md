@@ -51,7 +51,7 @@ Driven by a love for clean code, continuous learning, and collaboration, I’m a
     <img height="50" src="images/facebk.png"/>
   </a>
   <a href="https://shakil-tawny.vercel.app">
-    <img height="50" src="images/PortFolio.png"/>
+    <img height="50" src="images/portfolio.png"/>
   </a>
 </p>
 
