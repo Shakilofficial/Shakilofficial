@@ -43,19 +43,11 @@ Driven by a love for clean code, continuous learning, and collaboration, I’m a
 
 ## 📬 **Connect with Me**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/md-shakilhossain">
-    <img height="50" src="images/linked.png"/>
-  </a>
-  <a href="https://www.facebook.com/iamshakilhossain">
-    <img height="50" src="images/facebk.png"/>
-  </a>
-  <a href="https://shakil-tawny.vercel.app">
-    <img height="50" src="images/portfolio.png"/>
-  </a>
-</p>
+<br/>
 
----
+**_<p align="center"> [<img height="55" src="images/Likin.png">](https://www.linkedin.com/in/md-shakilhossain)[<img height="55" src="images/facebk.png">](https://www.facebook.com/iamshakilhossain)[<img height="55" src="images/Portfolio.png">](https://shakil-tawny.vercel.app) </p>_**
+
+<br/>
 
 ### 🎯 **Fun Widgets & Extras**
 
