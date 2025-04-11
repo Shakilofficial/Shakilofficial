@@ -45,13 +45,13 @@ Driven by a love for clean code, continuous learning, and collaboration, I’m a
 
 <p align="center">
   <a href="https://www.facebook.com/iamshakilhossain">
-    <img height="50" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img height="50" src="images/fb.png"/>
   </a>
   <a href="https://www.linkedin.com/in/md-shakilhossain">
-    <img height="50" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img height="50" src="images/lkin.png"/>
   </a>
-  <a href="mailto:mrshakilhossain@outlook.com">
-    <img height="50" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://shakil-tawny.vercel.app">
+    <img height="50" src="images/portfolio.png"/>
   </a>
 </p>
 
