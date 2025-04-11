@@ -48,7 +48,7 @@ Driven by a love for clean code, continuous learning, and collaboration, I’m a
     <img height="50" src="images/lkin.png"/>
   </a>
   <a href="https://www.facebook.com/iamshakilhossain">
-    <img height="50" src="images/fb.png"/>
+    <img height="50" src="images/facebook.png"/>
   </a>
   <a href="https://shakil-tawny.vercel.app">
     <img height="50" src="images/portfolio.png"/>
