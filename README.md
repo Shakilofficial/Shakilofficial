@@ -46,7 +46,7 @@ Driven by a love for clean code, continuous learning, and collaboration, I’m a
 <br/>
 <br/>
 
-**_<p align="center"> [<img height="55" src="images/lk.png">](https://www.linkedin.com/in/md-shakilhossain)[<img height="55" src="images/fb.png">](https://www.facebook.com/iamshakilhossain)[<img height="55" src="images/pt.png">](https://shakil-tawny.vercel.app) </p>_**
+**_<p align="center"> [<img height="55" src="images/pt.png">](https://www.linkedin.com/in/md-shakilhossain)[<img height="55" src="images/fb.png">](https://www.facebook.com/iamshakilhossain)[<img height="55" src="images/pt.png">](https://shakil-tawny.vercel.app) </p>_**
 
 <br/>
 <br/>
