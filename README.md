@@ -7,7 +7,9 @@
 ## 👨‍💻 **Bio**
 
 Hi there! I'm **Md Shakil Hossain**, a highly motivated **Full-Stack Web Developer** passionate about turning complex problems into elegant, user-friendly digital solutions.
+
 I specialize in the **MERN stack**, with hands-on experience in **TypeScript**, **Next.js**, and **Tailwind CSS**. I focus on building modern, scalable, and high-performance applications—whether it’s crafting intuitive UIs, developing robust REST APIs, or managing databases with **MongoDB** and **Mongoose**.
+
 Driven by a love for clean code, continuous learning, and collaboration, I’m always eager to contribute to real-world projects that make a difference.
 
 ---
