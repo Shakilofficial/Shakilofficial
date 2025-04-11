@@ -45,13 +45,13 @@ Driven by a love for clean code, continuous learning, and collaboration, I’m a
 
 <p align="center">
   <a href="https://www.linkedin.com/in/md-shakilhossain">
-    <img height="50" src="images/lkin.png"/>
+    <img height="50" src="images/linked.png"/>
   </a>
   <a href="https://www.facebook.com/iamshakilhossain">
-    <img height="50" src="images/facebook.png"/>
+    <img height="50" src="images/facebk.png"/>
   </a>
   <a href="https://shakil-tawny.vercel.app">
-    <img height="50" src="images/portfolio.png"/>
+    <img height="50" src="images/PortFolio.png"/>
   </a>
 </p>
 
