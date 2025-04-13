@@ -1,6 +1,6 @@
 🚀 **Welcome to My GitHub!**
 
-![Github Cover](./images/Github_banner.gif)
+![Github Cover](./images/github_banner.gif)
 
 ---
 
@@ -46,7 +46,7 @@ Driven by a love for clean code, continuous learning, and collaboration, I’m a
 <br/>
 <br/>
 
-**_<p align="center"> [<img height="55" src="images/linkedin.png">](https://www.linkedin.com/in/md-shakilhossain)[<img height="55" src="images/facebook.png">](https://www.facebook.com/iamshakilhossain)[<img height="55" src="images/portfolio.png">](https://shakil-tawny.vercel.app) </p>_**
+**_<p align="center"> [<img height="55" src="images/linkein.gif">](https://www.linkedin.com/in/md-shakilhossain)[<img height="55" src="images/facebook.gif">](https://www.facebook.com/iamshakilhossain)[<img height="55" src="images/portfolio.gif">](https://shakil-tawny.vercel.app) </p>_**
 
 <br/>
 <br/>
