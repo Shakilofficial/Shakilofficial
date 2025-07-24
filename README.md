@@ -8,7 +8,7 @@
 
 Hi there! I'm **Md Shakil Hossain**, a highly motivated **Full-Stack Web Developer** passionate about turning complex problems into elegant, user-friendly digital solutions.
 
-I specialize in the **MERN stack**, with hands-on experience in **TypeScript**, **Next.js**, and **Tailwind CSS**. I focus on building modern, scalable, and high-performance applications—whether it’s crafting intuitive UIs, developing robust REST APIs, or managing databases with **MongoDB** and **Mongoose**.
+I specialize in the **Full Stack Development**, with hands-on experience in **TypeScript**, **Next.js (App Router)**, and **Tailwind CSS**. I focus on building modern, scalable, and high-performance applications—whether it’s crafting intuitive UIs, developing robust REST APIs, or managing databases with **MongoDB**, **PostgreSQL**, and **Mongoose**.
 
 Driven by a love for clean code, continuous learning, and collaboration, I’m always eager to contribute to real-world projects that make a difference.
 
@@ -17,18 +17,19 @@ Driven by a love for clean code, continuous learning, and collaboration, I’m a
 ## 💻 **Tech Stack & Skills**
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,next,nodejs,express,mongodb,postman,figma" alt="Skills" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,next,redux,nodejs,express,mongodb,postgres,prisma,jwt,docker,git,github,vercel,figma,postman" alt="Tech Stack" /></a>
 </p>
 
 ---
 
 ## 🚀 **Overview**
 
-- 🔭 Currently building **real-world full-stack projects**
-- 🌱 Exploring **SQL** and advanced backend tools
-- 🤝 Open to **collaboration** and networking
+- 🔭 Currently building **real-world full-stack projects** using modular architecture
+- 🌱 Deep diving into **Prisma**, **Zod**, and secure API best practices
+- 🧠 Passionate about **clean code**, **performance optimization**, and **accessibility**
+- 🤝 Open to **collaboration** and **freelance opportunities**
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/md-shakilhossain) or [Email](mailto:mrshakilhossain@outlook.com)
-- ⚡ Fun fact: I love **optimizing workflows** & discovering new tech!
+- ⚡ Fun fact: I enjoy **refactoring legacy code** and making it beautiful ✨
 
 ---
 
