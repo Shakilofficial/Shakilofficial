@@ -29,7 +29,7 @@ Driven by a love for clean code, continuous learning, and collaboration, I’m a
 - 🧠 Passionate about **clean code**, **performance optimization**, and **accessibility**
 - 🤝 Open to **collaboration** and **freelance opportunities**
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/md-shakilhossain) or [Email](mailto:mrshakilhossain@outlook.com)
-- ⚡ Fun fact: I enjoy **refactoring legacy code** and making it beautiful ✨
+- ⚡ Fun fact: I enjoy **clean and reusable code** and making it beautiful ✨
 
 ---
 
