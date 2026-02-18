@@ -40,10 +40,10 @@ I believe in writing clean, maintainable code and continuously improving through
 
 ## 🛠️ **Project Highlights**
 
-- 🌟 **Lumina PTE** — AI-Powered LMS (B2B & B2C, Live)  
+- 🌟 [**Lumina PTE**](https://www.luminapte.site) — AI-Powered LMS (B2B & B2C)  
   → Multi-tenant system • AI scoring • Real-time exams • Payments • Analytics
 
-- 📦 **Happy** — FMCG Supply Chain Platform (Live)  
+- 📦 [**Happy**](https://happybangladesh.com) — FMCG Supply Chain Platform  
   → Inventory • QR tracking • Dispatch • Settlements • Admin dashboards
 
 - 🚀 [**TutorLink**](https://tutor-link-web.vercel.app)  
