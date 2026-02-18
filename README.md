@@ -61,19 +61,7 @@ I believe in writing clean, maintainable code and continuously improving through
 
 ---
 
-## 📬 **Connect with Me**
-
-<br/>
-<br/>
-
-<p align="center">
-[<img height="55" src="images/linkein.gif">](https://www.linkedin.com/in/md-shakilhossain)
-[<img height="55" src="images/facebook.gif">](https://www.facebook.com/iamshakilhossain)
-[<img height="55" src="images/portfolio.gif">](https://shakil-tawny.vercel.app)
-</p>
-
-<br/>
-<br/>
+## 📬 **Connect with Me** <br/> <br/> **_<p align="center"> [<img height="55" src="images/linkein.gif">](https://www.linkedin.com/in/md-shakilhossain)[<img height="55" src="images/facebook.gif">](https://www.facebook.com/iamshakilhossain)[<img height="55" src="images/portfolio.gif">](https://shakil-tawny.vercel.app) </p>_** <br/> <br/>
 
 ### 🎯 **Fun Widgets & Extras**
 
