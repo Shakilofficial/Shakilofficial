@@ -66,11 +66,11 @@ I believe in writing clean, maintainable code and continuously improving through
 <br/>
 <br/>
 
-**_<p align="center">
+<p align="center">
 [<img height="55" src="images/linkein.gif">](https://www.linkedin.com/in/md-shakilhossain)
 [<img height="55" src="images/facebook.gif">](https://www.facebook.com/iamshakilhossain)
 [<img height="55" src="images/portfolio.gif">](https://shakil-tawny.vercel.app)
-</p>_**
+</p>
 
 <br/>
 <br/>
