@@ -45,7 +45,10 @@ I believe in writing clean, maintainable code and continuously improving through
 
 - 📦 [**Happy**](https://happybangladesh.com) — FMCG Supply Chain Platform  
   → Inventory • QR tracking • Dispatch • Settlements • Admin dashboards
-
+  
+- 🛒 [**Normela**](https://www.noormela.com) — Scalable E-Commerce Platform  
+  → Role-based dashboards • Product filtering • Cart/Wishlist • Secure auth • Real-time orders • Coupons & flash sales • Payment integration • Admin analytics
+  
 - 🚀 [**TutorLink**](https://tutor-link-web.vercel.app)  
   → Online learning platform with authentication, payments & dashboards
 
