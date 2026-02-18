@@ -6,39 +6,58 @@
 
 ## 👨‍💻 **Bio**
 
-Hi there! I'm **Md Shakil Hossain**, a highly motivated **Full-Stack Web Developer** passionate about turning complex problems into elegant, user-friendly digital solutions.
+Hi there! I'm **Md Shakil Hossain**, a passionate **Full Stack Engineer** who loves building scalable, secure, and high-performance web applications.
 
-I specialize in the **Full Stack Development**, with experience in **TypeScript**, **Next.js (App Router)**, **Redux Toolkit** and **Tailwind CSS**. I focus on building modern, scalable, and high-performance applications—whether it’s crafting intuitive UIs, developing robust REST APIs, or managing databases with **MongoDB**, **PostgreSQL**, **Prisma** and **Mongoose**.
+I enjoy working across the full stack — from crafting clean and responsive user interfaces to designing robust backend systems and APIs. My core focus is on **TypeScript**, **Next.js (App Router)**, **React**, and modern backend development with **Node.js**.
 
-Driven by a love for clean code, continuous learning, and collaboration, I’m always eager to contribute to real-world projects that make a difference.
+Currently, I’m sharpening my skills in **NestJS**, **microservices architecture**, **system design**, **DevOps**, and **testing** to build enterprise-grade, production-ready systems.
+
+I believe in writing clean, maintainable code and continuously improving through learning, building, and collaboration.
 
 ---
 
 ## 💻 **Tech Stack & Skills**
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,next,redux,nodejs,express,mongodb,postgres,prisma,jwt,docker,git,github,vercel,figma,postman" alt="Tech Stack" /></a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,next,redux,nodejs,express,nestjs,mongodb,postgres,prisma,redis,docker,git,github,vercel,linux,nginx,aws,postman,firebase,bun,npm,pnpm,yarn,notion,figma&theme=dark" alt="Tech Stack" />
+  </a>
 </p>
 
 ---
 
 ## 🚀 **Overview**
 
-- 🔭 Currently building **real-world full-stack projects** using modular architecture
-- 🌱 Deep diving into **Prisma**, **Zod**, and secure API best practices
-- 🧠 Passionate about **clean code**, **performance optimization**, and **accessibility**
-- 🤝 Open to **collaboration** and **freelance opportunities**
+- 🔭 Building **scalable full-stack & backend-focused projects**
+- 🌱 Learning **NestJS, Microservices, System Design & DevOps**
+- 🧪 Exploring **testing, monitoring & production best practices**
+- 🧠 Passionate about **clean architecture & performance**
+- 🤝 Open to **collaboration and exciting projects**
 - 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/md-shakilhossain) or [Email](mailto:mrshakilhossain@outlook.com)
-- ⚡ Fun fact: I enjoy **clean and reusable code** and making it beautiful ✨
+- ⚡ Fun fact: I love **coffee ☕, clean code, and Explore new Technologies**
 
 ---
 
 ## 🛠️ **Project Highlights**
 
-- 🚀 [**TutorLink**](https://tutor-link-web.vercel.app) – [Live](https://tutor-link-web.vercel.app) | [Repo](https://github.com/Shakilofficial/tutor-link.git) | [Video](https://drive.google.com/file/d/1N5F7j7pJMCdSdqy8DQcU_JiwhSq27-Mf/view)
-- 🛒 [**NEXA**](https://ecom-nexa-web.vercel.app) – [Live](https://ecom-nexa-web.vercel.app) | [Frontend](https://github.com/Shakilofficial/nextmart-client.git) | [Backend](https://github.com/Shakilofficial/nextmart-server.git)
-- 📚 [**BookNest**](https://booknest-blond.vercel.app) – [Live](https://booknest-blond.vercel.app) | [Frontend](https://github.com/Shakilofficial/bookNest-client.git) | [Backend](https://github.com/Shakilofficial/bookNest-server.git) | [Video](https://drive.google.com/file/d/1GARhg0KL9KvNqonQexFuEd6hXiccUSi0/view)
-- 🎨 [**Portfolio Website**](https://shakil-tawny.vercel.app) – [Live](https://shakil-tawny.vercel.app) |[Dashboard](https://shakil-portfolio-dashboard.vercel.app)| [Frontend](https://github.com/Shakilofficial/portfolio-client.git) | [Backend](https://github.com/Shakilofficial/portfolio-server.git) | [Video](https://drive.google.com/file/d/1G0u7BVb99tnnNps1LVl3K8pcsIBx8cnr/view)
+- 🌟 **Lumina PTE** — AI-Powered LMS (B2B & B2C, Live)  
+  → Multi-tenant system • AI scoring • Real-time exams • Payments • Analytics
+
+- 📦 **Happy** — FMCG Supply Chain Platform (Live)  
+  → Inventory • QR tracking • Dispatch • Settlements • Admin dashboards
+
+- 🚀 [**TutorLink**](https://tutor-link-web.vercel.app)  
+  → Online learning platform with authentication, payments & dashboards
+
+- 🛒 [**NEXA**](https://ecom-nexa-web.vercel.app)  
+  → Full-featured e-commerce system with admin & order management
+
+- 📚 [**BookNest**](https://booknest-blond.vercel.app)  
+  → Book management platform with modern UI & backend APIs
+
+- 🎨 [**Portfolio Website**](https://shakil-tawny.vercel.app)  
+  → Personal portfolio with dashboard & CMS features
+
 
 ---
 
@@ -47,7 +66,11 @@ Driven by a love for clean code, continuous learning, and collaboration, I’m a
 <br/>
 <br/>
 
-**_<p align="center"> [<img height="55" src="images/linkein.gif">](https://www.linkedin.com/in/md-shakilhossain)[<img height="55" src="images/facebook.gif">](https://www.facebook.com/iamshakilhossain)[<img height="55" src="images/portfolio.gif">](https://shakil-tawny.vercel.app) </p>_**
+**_<p align="center">
+[<img height="55" src="images/linkein.gif">](https://www.linkedin.com/in/md-shakilhossain)
+[<img height="55" src="images/facebook.gif">](https://www.facebook.com/iamshakilhossain)
+[<img height="55" src="images/portfolio.gif">](https://shakil-tawny.vercel.app)
+</p>_**
 
 <br/>
 <br/>
@@ -87,4 +110,4 @@ Driven by a love for clean code, continuous learning, and collaboration, I’m a
 
 ---
 
-🔥 **Thanks for stopping by!** Let’s connect and build something amazing together! 🚀
+🔥 **Thanks for stopping by!** Let’s connect, learn, and build something amazing together! 🚀
