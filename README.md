@@ -1,6 +1,6 @@
 🚀 **Welcome to My GitHub!**
 
-![Banner](./images/banner.gif)
+![Banner](./images/github_banner.gif)
 
 ---
 
